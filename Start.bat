@@ -1,0 +1,1 @@
+START "" ./Build/Release/RESTAPI.exe

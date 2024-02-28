@@ -1,0 +1,18 @@
+POST http://localhost:8080/breakfasts
+Content-Type: application/json
+
+{
+    "name": "Vegan Garbage Dog Barf",
+    "description": "Vegan everything! Join us for a healthy breakfast..",
+    "startDateTime": 40404000,
+    "endDateTime": 84043432,
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "sweet": [
+        "Cookie"
+    ]
+}

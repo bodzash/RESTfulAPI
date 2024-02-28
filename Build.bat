@@ -1,0 +1,1 @@
+cmake -E time cmake --build Build --config Release && START "" ./Build/Release/RESTAPI.exe
